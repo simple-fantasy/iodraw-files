@@ -236,9 +236,6 @@
         <mxCell id="JJDHqHK2NI74aTUybEn_-69" value="文档类型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="310" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JJDHqHK2NI74aTUybEn_-80" value="版本" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="670" width="60" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="JJDHqHK2NI74aTUybEn_-83" value="版本" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="740" width="60" height="40" as="geometry" />
         </mxCell>
