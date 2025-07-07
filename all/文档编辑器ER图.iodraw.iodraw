@@ -92,6 +92,11 @@
             <mxPoint x="265" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="JJDHqHK2NI74aTUybEn_-38" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JJDHqHK2NI74aTUybEn_-35">
+          <mxGeometry x="0.1533" y="1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="JJDHqHK2NI74aTUybEn_-34" value="标记" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="440" width="40" height="40" as="geometry" />
         </mxCell>
