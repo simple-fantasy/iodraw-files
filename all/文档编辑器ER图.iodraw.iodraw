@@ -44,9 +44,9 @@
             <mxPoint x="270" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JJDHqHK2NI74aTUybEn_-13" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JJDHqHK2NI74aTUybEn_-10">
+        <mxCell id="JJDHqHK2NI74aTUybEn_-13" value="版本&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JJDHqHK2NI74aTUybEn_-10">
           <mxGeometry x="0.0984" y="2" relative="1" as="geometry">
-            <mxPoint y="-1" as="offset" />
+            <mxPoint y="6" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
