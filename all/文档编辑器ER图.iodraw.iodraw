@@ -338,8 +338,11 @@
         <mxCell id="JJDHqHK2NI74aTUybEn_-102" value="版本" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="720" width="60" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="JJDHqHK2NI74aTUybEn_-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="JJDHqHK2NI74aTUybEn_-103" target="JJDHqHK2NI74aTUybEn_-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JJDHqHK2NI74aTUybEn_-103" value="版本" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="590" width="60" height="40" as="geometry" />
+          <mxGeometry x="90" y="670" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
