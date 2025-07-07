@@ -50,10 +50,10 @@
         <mxCell id="JJDHqHK2NI74aTUybEn_-17" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="70" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JJDHqHK2NI74aTUybEn_-18" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JJDHqHK2NI74aTUybEn_-18" value="项目名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="100" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JJDHqHK2NI74aTUybEn_-19" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JJDHqHK2NI74aTUybEn_-19" value="排序" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JJDHqHK2NI74aTUybEn_-20" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
