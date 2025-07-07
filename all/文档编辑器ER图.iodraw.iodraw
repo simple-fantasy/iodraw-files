@@ -215,10 +215,10 @@
         <mxCell id="JJDHqHK2NI74aTUybEn_-62" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="340" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JJDHqHK2NI74aTUybEn_-63" value="版本" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JJDHqHK2NI74aTUybEn_-63" value="创建者ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="290" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JJDHqHK2NI74aTUybEn_-64" value="版本" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JJDHqHK2NI74aTUybEn_-64" value="修改时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="260" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JJDHqHK2NI74aTUybEn_-65" value="版本" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
