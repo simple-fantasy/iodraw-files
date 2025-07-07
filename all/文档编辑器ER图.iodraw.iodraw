@@ -4,11 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="JJDHqHK2NI74aTUybEn_-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="JJDHqHK2NI74aTUybEn_-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="270" y="50" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="JJDHqHK2NI74aTUybEn_-1" value="文集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="110" width="100" height="30" as="geometry" />
         </mxCell>
@@ -132,6 +127,12 @@
         </mxCell>
         <mxCell id="JJDHqHK2NI74aTUybEn_-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JJDHqHK2NI74aTUybEn_-27" target="JJDHqHK2NI74aTUybEn_-27">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JJDHqHK2NI74aTUybEn_-47" value="" style="endArrow=none;html=1;rounded=0;entryX=0.932;entryY=0.711;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="JJDHqHK2NI74aTUybEn_-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="120" as="sourcePoint" />
+            <mxPoint x="440" y="70" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
