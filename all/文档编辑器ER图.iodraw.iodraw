@@ -24,7 +24,7 @@
         </mxCell>
         <mxCell id="JJDHqHK2NI74aTUybEn_-31" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JJDHqHK2NI74aTUybEn_-7">
           <mxGeometry x="0.171" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-3" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JJDHqHK2NI74aTUybEn_-9" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JJDHqHK2NI74aTUybEn_-3" target="JJDHqHK2NI74aTUybEn_-5">
@@ -95,6 +95,12 @@
         </mxCell>
         <mxCell id="JJDHqHK2NI74aTUybEn_-28" value="包含" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="190" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JJDHqHK2NI74aTUybEn_-33" value="包含" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="200" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JJDHqHK2NI74aTUybEn_-34" value="包含" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="210" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
