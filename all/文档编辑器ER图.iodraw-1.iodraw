@@ -696,10 +696,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="97b8ctynXWwgwKvdvBLJ-101" value="通知" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="165" y="1150" width="110" height="40" as="geometry" />
+          <mxGeometry x="280" y="1630" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Dc_Pjy2WCsftoNidO67m-2" value="角色" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="235" y="1520" width="110" height="40" as="geometry" />
+          <mxGeometry x="270" y="1240" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Dc_Pjy2WCsftoNidO67m-3" value="项目成员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-320" y="1550" width="110" height="40" as="geometry" />
