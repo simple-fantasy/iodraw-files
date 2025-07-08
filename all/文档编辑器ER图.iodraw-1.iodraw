@@ -424,13 +424,13 @@
           <mxGeometry x="140" y="770" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="97b8ctynXWwgwKvdvBLJ-33" value="权限" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="425" y="710" width="60" height="40" as="geometry" />
+          <mxGeometry x="390" y="680" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="97b8ctynXWwgwKvdvBLJ-34" value="过期时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="820" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="97b8ctynXWwgwKvdvBLJ-35" value="分享给成员ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="750" width="60" height="40" as="geometry" />
+          <mxGeometry x="380" y="740" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="97b8ctynXWwgwKvdvBLJ-36" value="水印设置" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="840" width="60" height="40" as="geometry" />
@@ -462,7 +462,7 @@
             <mxPoint x="300" y="688" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="97b8ctynXWwgwKvdvBLJ-43" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="97b8ctynXWwgwKvdvBLJ-35" target="97b8ctynXWwgwKvdvBLJ-23">
+        <mxCell id="97b8ctynXWwgwKvdvBLJ-43" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="97b8ctynXWwgwKvdvBLJ-35" target="97b8ctynXWwgwKvdvBLJ-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="251" y="746" as="sourcePoint" />
             <mxPoint x="310" y="698" as="targetPoint" />
@@ -576,6 +576,9 @@
             <mxPoint x="600" y="870" as="sourcePoint" />
             <mxPoint x="583" y="680" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="97b8ctynXWwgwKvdvBLJ-72" value="文档分享" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="630" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
