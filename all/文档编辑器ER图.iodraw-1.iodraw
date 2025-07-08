@@ -695,7 +695,7 @@
             <mxPoint x="533" y="950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="97b8ctynXWwgwKvdvBLJ-101" value="文档标签" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="97b8ctynXWwgwKvdvBLJ-101" value="通知" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry y="1350" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="97b8ctynXWwgwKvdvBLJ-102" value="文档标签" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
