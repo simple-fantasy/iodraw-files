@@ -894,7 +894,7 @@
         <mxCell id="Dc_Pjy2WCsftoNidO67m-48" value="文件路径" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="315" y="1450" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Dc_Pjy2WCsftoNidO67m-49" value="文件路径" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Dc_Pjy2WCsftoNidO67m-49" value="通知类型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="1630" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Dc_Pjy2WCsftoNidO67m-50" value="通知ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
