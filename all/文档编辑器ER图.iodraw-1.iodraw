@@ -406,6 +406,11 @@
             <mxPoint x="366" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="97b8ctynXWwgwKvdvBLJ-49" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="97b8ctynXWwgwKvdvBLJ-27">
+          <mxGeometry x="-0.0146" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="97b8ctynXWwgwKvdvBLJ-26" value="发起" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="480" width="40" height="40" as="geometry" />
         </mxCell>
@@ -483,6 +488,12 @@
         </mxCell>
         <mxCell id="97b8ctynXWwgwKvdvBLJ-47" value="文档分享" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="545" y="620" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="97b8ctynXWwgwKvdvBLJ-50" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="290" as="sourcePoint" />
+            <mxPoint x="460" y="240" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
