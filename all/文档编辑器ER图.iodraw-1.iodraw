@@ -699,13 +699,13 @@
           <mxGeometry x="165" y="1150" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Dc_Pjy2WCsftoNidO67m-2" value="角色" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="1480" width="110" height="40" as="geometry" />
+          <mxGeometry x="235" y="1520" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Dc_Pjy2WCsftoNidO67m-3" value="项目成员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-360" y="1510" width="110" height="40" as="geometry" />
+          <mxGeometry x="-320" y="1550" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Dc_Pjy2WCsftoNidO67m-4" value="操作日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-210" y="1670" width="110" height="40" as="geometry" />
+          <mxGeometry x="-30" y="1780" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Dc_Pjy2WCsftoNidO67m-5" value="成员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-180" y="1050" width="110" height="40" as="geometry" />
@@ -795,6 +795,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-70" y="1090" as="sourcePoint" />
             <mxPoint x="28" y="1350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dc_Pjy2WCsftoNidO67m-26" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Dc_Pjy2WCsftoNidO67m-24">
+          <mxGeometry x="0.1906" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Dc_Pjy2WCsftoNidO67m-23" value="通知" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
