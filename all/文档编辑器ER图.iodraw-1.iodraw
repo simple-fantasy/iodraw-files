@@ -476,6 +476,9 @@
             <mxPoint x="293" y="681" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="97b8ctynXWwgwKvdvBLJ-47" value="文档分享" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="630" width="110" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
