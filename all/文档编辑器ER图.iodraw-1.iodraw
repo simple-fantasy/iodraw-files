@@ -967,7 +967,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Dc_Pjy2WCsftoNidO67m-66" value="通知ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-390" y="1530" width="60" height="40" as="geometry" />
+          <mxGeometry x="-400" y="1640" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Dc_Pjy2WCsftoNidO67m-67" value="通知ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="1650" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Dc_Pjy2WCsftoNidO67m-68" value="通知ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="1660" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Dc_Pjy2WCsftoNidO67m-69" value="通知ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="1750" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Dc_Pjy2WCsftoNidO67m-70" value="通知ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="1730" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
