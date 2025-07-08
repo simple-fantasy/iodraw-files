@@ -699,10 +699,10 @@
           <mxGeometry x="165" y="1150" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Dc_Pjy2WCsftoNidO67m-2" value="角色" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="1500" width="110" height="40" as="geometry" />
+          <mxGeometry x="200" y="1480" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Dc_Pjy2WCsftoNidO67m-3" value="项目成员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="425" y="1470" width="110" height="40" as="geometry" />
+          <mxGeometry x="-360" y="1510" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Dc_Pjy2WCsftoNidO67m-4" value="操作日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-210" y="1670" width="110" height="40" as="geometry" />
