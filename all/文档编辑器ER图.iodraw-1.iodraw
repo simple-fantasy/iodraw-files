@@ -514,6 +514,27 @@
         <mxCell id="97b8ctynXWwgwKvdvBLJ-51" value="讨论" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="500" width="40" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="97b8ctynXWwgwKvdvBLJ-55" value="版本" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="730" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="97b8ctynXWwgwKvdvBLJ-56" value="版本" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="740" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="97b8ctynXWwgwKvdvBLJ-57" value="版本" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="750" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="97b8ctynXWwgwKvdvBLJ-58" value="版本" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="760" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="97b8ctynXWwgwKvdvBLJ-59" value="版本" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="770" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="97b8ctynXWwgwKvdvBLJ-60" value="版本" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="780" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="97b8ctynXWwgwKvdvBLJ-61" value="版本" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="790" width="60" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
