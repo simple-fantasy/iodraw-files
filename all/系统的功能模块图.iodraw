@@ -13,11 +13,20 @@
         <mxCell id="Som-ZuVaMUSzUvenjs4G-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cbBPj-yQSL8VmkCg2xt3-1" target="cbBPj-yQSL8VmkCg2xt3-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Som-ZuVaMUSzUvenjs4G-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cbBPj-yQSL8VmkCg2xt3-1" target="cbBPj-yQSL8VmkCg2xt3-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Som-ZuVaMUSzUvenjs4G-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cbBPj-yQSL8VmkCg2xt3-1" target="cbBPj-yQSL8VmkCg2xt3-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cbBPj-yQSL8VmkCg2xt3-1" value="新浪新闻爬虫与可视化分析系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="70" width="194" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cbBPj-yQSL8VmkCg2xt3-7" value="用户注册" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="320" width="20" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Som-ZuVaMUSzUvenjs4G-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cbBPj-yQSL8VmkCg2xt3-8" target="cbBPj-yQSL8VmkCg2xt3-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cbBPj-yQSL8VmkCg2xt3-8" value="用户管理模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="220" width="114" height="60" as="geometry" />
