@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Som-ZuVaMUSzUvenjs4G-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cbBPj-yQSL8VmkCg2xt3-1" target="cbBPj-yQSL8VmkCg2xt3-8">
+        <mxCell id="Som-ZuVaMUSzUvenjs4G-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cbBPj-yQSL8VmkCg2xt3-1" target="cbBPj-yQSL8VmkCg2xt3-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cbBPj-yQSL8VmkCg2xt3-1" value="新浪新闻爬虫与可视化分析系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
