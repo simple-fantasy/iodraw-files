@@ -58,7 +58,7 @@
         <mxCell id="cbBPj-yQSL8VmkCg2xt3-25" value="缓存管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="320" width="20" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="cbBPj-yQSL8VmkCg2xt3-26" value="缓存管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cbBPj-yQSL8VmkCg2xt3-26" value="数据清洗" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="320" width="20" height="160" as="geometry" />
         </mxCell>
         <mxCell id="cbBPj-yQSL8VmkCg2xt3-27" value="缓存管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
