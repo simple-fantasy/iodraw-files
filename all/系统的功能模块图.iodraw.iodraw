@@ -71,13 +71,16 @@
           <mxGeometry x="827" y="340" width="20" height="160" as="geometry" />
         </mxCell>
         <mxCell id="cbBPj-yQSL8VmkCg2xt3-30" value="缓存管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="837" y="350" width="20" height="160" as="geometry" />
+          <mxGeometry x="1020" y="340" width="20" height="160" as="geometry" />
         </mxCell>
         <mxCell id="cbBPj-yQSL8VmkCg2xt3-31" value="缓存管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="847" y="360" width="20" height="160" as="geometry" />
+          <mxGeometry x="990" y="340" width="20" height="160" as="geometry" />
         </mxCell>
         <mxCell id="cbBPj-yQSL8VmkCg2xt3-32" value="缓存管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="857" y="370" width="20" height="160" as="geometry" />
+          <mxGeometry x="930" y="340" width="20" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="cbBPj-yQSL8VmkCg2xt3-33" value="缓存管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="340" width="20" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
