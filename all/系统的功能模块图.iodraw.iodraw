@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="O34Eg3XFIwU1TYmxQFwE">
-    <mxGraphModel dx="538" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1076" dy="1285" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -64,10 +64,10 @@
         <mxCell id="cbBPj-yQSL8VmkCg2xt3-27" value="情感分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="807" y="320" width="20" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="cbBPj-yQSL8VmkCg2xt3-30" value="缓存管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cbBPj-yQSL8VmkCg2xt3-30" value="交互式图表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1034" y="340" width="20" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="cbBPj-yQSL8VmkCg2xt3-31" value="缓存管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cbBPj-yQSL8VmkCg2xt3-31" value="时间轴图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="340" width="20" height="160" as="geometry" />
         </mxCell>
         <mxCell id="cbBPj-yQSL8VmkCg2xt3-32" value="柱状图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
