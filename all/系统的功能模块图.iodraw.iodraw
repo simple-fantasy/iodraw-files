@@ -20,10 +20,19 @@
           <mxGeometry x="380" y="370" width="50" height="170" as="geometry" />
         </mxCell>
         <mxCell id="cbBPj-yQSL8VmkCg2xt3-8" value="新浪新闻爬虫与可视化分析系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="70" width="194" height="60" as="geometry" />
+          <mxGeometry x="30" y="210" width="194" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cbBPj-yQSL8VmkCg2xt3-9" value="新浪新闻爬虫与可视化分析系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="80" width="194" height="60" as="geometry" />
+          <mxGeometry x="200" y="220" width="194" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cbBPj-yQSL8VmkCg2xt3-10" value="新浪新闻爬虫与可视化分析系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="220" width="194" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cbBPj-yQSL8VmkCg2xt3-11" value="新浪新闻爬虫与可视化分析系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="200" width="194" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cbBPj-yQSL8VmkCg2xt3-12" value="新浪新闻爬虫与可视化分析系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="220" width="194" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
