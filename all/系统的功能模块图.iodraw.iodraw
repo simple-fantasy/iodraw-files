@@ -31,11 +31,11 @@
         <mxCell id="cbBPj-yQSL8VmkCg2xt3-15" value="数据隔离" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="144" y="320" width="20" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="cbBPj-yQSL8VmkCg2xt3-16" value="用户注册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cbBPj-yQSL8VmkCg2xt3-16" value="缓存管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="594" y="310" width="20" height="160" as="geometry" />
         </mxCell>
         <mxCell id="cbBPj-yQSL8VmkCg2xt3-17" value="数据库操作" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="507" y="310" width="20" height="160" as="geometry" />
+          <mxGeometry x="490" y="310" width="20" height="160" as="geometry" />
         </mxCell>
         <mxCell id="cbBPj-yQSL8VmkCg2xt3-18" value="内容解析器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="320" width="20" height="160" as="geometry" />
@@ -49,8 +49,14 @@
         <mxCell id="cbBPj-yQSL8VmkCg2xt3-21" value="反爬机制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="320" width="20" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="cbBPj-yQSL8VmkCg2xt3-22" value="用户注册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cbBPj-yQSL8VmkCg2xt3-22" value="文件存储" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="310" width="20" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="cbBPj-yQSL8VmkCg2xt3-24" value="缓存管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="604" y="320" width="20" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="cbBPj-yQSL8VmkCg2xt3-25" value="缓存管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="614" y="330" width="20" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
