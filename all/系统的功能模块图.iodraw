@@ -25,7 +25,13 @@
         <mxCell id="cbBPj-yQSL8VmkCg2xt3-7" value="用户注册" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="320" width="20" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="Som-ZuVaMUSzUvenjs4G-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cbBPj-yQSL8VmkCg2xt3-8" target="cbBPj-yQSL8VmkCg2xt3-7">
+        <mxCell id="Som-ZuVaMUSzUvenjs4G-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cbBPj-yQSL8VmkCg2xt3-8" target="cbBPj-yQSL8VmkCg2xt3-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Som-ZuVaMUSzUvenjs4G-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cbBPj-yQSL8VmkCg2xt3-8" target="cbBPj-yQSL8VmkCg2xt3-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Som-ZuVaMUSzUvenjs4G-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cbBPj-yQSL8VmkCg2xt3-8" target="cbBPj-yQSL8VmkCg2xt3-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cbBPj-yQSL8VmkCg2xt3-8" value="用户管理模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
