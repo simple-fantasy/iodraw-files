@@ -32,7 +32,7 @@
           <mxGeometry x="144" y="320" width="20" height="160" as="geometry" />
         </mxCell>
         <mxCell id="cbBPj-yQSL8VmkCg2xt3-16" value="用户注册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="310" width="20" height="160" as="geometry" />
+          <mxGeometry x="594" y="310" width="20" height="160" as="geometry" />
         </mxCell>
         <mxCell id="cbBPj-yQSL8VmkCg2xt3-17" value="用户注册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="507" y="310" width="20" height="160" as="geometry" />
@@ -41,10 +41,10 @@
           <mxGeometry x="350" y="320" width="20" height="160" as="geometry" />
         </mxCell>
         <mxCell id="cbBPj-yQSL8VmkCg2xt3-19" value="U R L调度器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="320" width="20" height="160" as="geometry" />
+          <mxGeometry x="270" y="320" width="20" height="160" as="geometry" />
         </mxCell>
         <mxCell id="cbBPj-yQSL8VmkCg2xt3-20" value="网页下载器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="320" width="20" height="160" as="geometry" />
+          <mxGeometry x="310" y="320" width="20" height="160" as="geometry" />
         </mxCell>
         <mxCell id="cbBPj-yQSL8VmkCg2xt3-21" value="反爬机制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="320" width="20" height="160" as="geometry" />
