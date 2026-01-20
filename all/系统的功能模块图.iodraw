@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Som-ZuVaMUSzUvenjs4G-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cbBPj-yQSL8VmkCg2xt3-1" target="cbBPj-yQSL8VmkCg2xt3-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cbBPj-yQSL8VmkCg2xt3-1" value="新浪新闻爬虫与可视化分析系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="70" width="194" height="60" as="geometry" />
         </mxCell>
@@ -75,12 +78,6 @@
         </mxCell>
         <mxCell id="cbBPj-yQSL8VmkCg2xt3-33" value="词云图" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="960" y="340" width="20" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="Som-ZuVaMUSzUvenjs4G-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="580" y="440" as="sourcePoint" />
-            <mxPoint x="630" y="390" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
