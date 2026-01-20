@@ -5,19 +5,19 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="CkrP0aWwRMf0IaprT5fo-4" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="150" y="320" width="80" height="30" as="geometry" />
+          <mxGeometry x="440" y="290" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FYMLMmggEVB-Y00Sw3gC-3" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="330" width="80" height="30" as="geometry" />
+          <mxGeometry x="450" y="300" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FYMLMmggEVB-Y00Sw3gC-4" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="480" width="80" height="30" as="geometry" />
+          <mxGeometry x="460" y="310" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FYMLMmggEVB-Y00Sw3gC-5" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="450" width="80" height="30" as="geometry" />
+          <mxGeometry x="470" y="320" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FYMLMmggEVB-Y00Sw3gC-7" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="370" width="120" height="80" as="geometry" />
+        <mxCell id="FYMLMmggEVB-Y00Sw3gC-6" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="330" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
