@@ -40,7 +40,7 @@
         <mxCell id="cbBPj-yQSL8VmkCg2xt3-18" value="用户注册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="320" width="20" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="cbBPj-yQSL8VmkCg2xt3-19" value="URL调度器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cbBPj-yQSL8VmkCg2xt3-19" value="U R L调度器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="320" width="20" height="160" as="geometry" />
         </mxCell>
         <mxCell id="cbBPj-yQSL8VmkCg2xt3-20" value="网页下载器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
